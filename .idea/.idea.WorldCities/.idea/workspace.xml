@@ -9,11 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2406cefa-2770-48d6-b305-68c991e0b778" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WorldCities.Server/Data/Models/City.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorldCities.Server/Data/Models/Country.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WorldCities.Server/WorldCities.Server.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worldcities.client/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/worldcities.client/src/proxy.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gamercherrie"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gamercherrie/ASP.NET-Core-8-and-Angular.git",
+    "accountId": "e3433c50-6923-4062-be8f-09c01ca1218c"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../HealthCheck/HealthCheck.Server/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -96,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728594611442</updated>
-      <workItem from="1728594612490" duration="26676000" />
+      <workItem from="1728594612490" duration="26851000" />
     </task>
     <servers />
   </component>
